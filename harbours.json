@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "exportedAt": "2026-05-01T09:33:41.930Z",
+  "exportedAt": "2026-05-01T09:37:06.058Z",
   "count": 78,
   "regions": [
     {
-      "id": "17fe055660d9",
+      "id": "b106e864-45db-555c-a7d0-24be71d7b130",
       "name": "Harbour: Ardfern Yacht Centre",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -158,7 +158,7 @@
       }
     },
     {
-      "id": "ddfa1fd83d05",
+      "id": "75346840-93a3-55ef-bd2b-214d7478e34c",
       "name": "Harbour: Ardnadam Pier",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -312,7 +312,7 @@
       }
     },
     {
-      "id": "df58989a8a6e",
+      "id": "81fb0756-ec02-5633-9176-055903a57300",
       "name": "Harbour: Ardrossan Harbour and Clyde Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -466,7 +466,7 @@
       }
     },
     {
-      "id": "91004ad8047e",
+      "id": "32e892ab-4d34-5380-95bd-62000be20ac1",
       "name": "Harbour: Arisaig Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -620,7 +620,7 @@
       }
     },
     {
-      "id": "2fb0571bfef7",
+      "id": "929d4583-a6e5-5914-8692-163b6bfbd429",
       "name": "Harbour: Armadale Pier",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -774,7 +774,7 @@
       }
     },
     {
-      "id": "45acba41a4d3",
+      "id": "fc7b35e5-af88-5d1c-bd79-2241ffd5e330",
       "name": "Harbour: Ayr Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -928,7 +928,7 @@
       }
     },
     {
-      "id": "3eb02cf28dbe",
+      "id": "ce9fa197-b725-56a9-9e7d-e89d79b1b456",
       "name": "Harbour: Berneray Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -1082,7 +1082,7 @@
       }
     },
     {
-      "id": "e29994c1f94f",
+      "id": "dfdd8e1f-749e-5c97-a3e1-fee8d46b3241",
       "name": "Harbour: Blackwaterfoot Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -1236,7 +1236,7 @@
       }
     },
     {
-      "id": "368ce6bf4bb8",
+      "id": "832448c3-162f-5522-b6dc-0713120646e3",
       "name": "Harbour: Blairvadach Sailing and Outdoor Centre",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -1390,7 +1390,7 @@
       }
     },
     {
-      "id": "6e93336ed8a0",
+      "id": "731c046e-b04e-5cdb-9433-7dde1c34fd78",
       "name": "Harbour: Brodick Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -1544,7 +1544,7 @@
       }
     },
     {
-      "id": "b5a06e15745e",
+      "id": "390b3792-0911-5b88-8a2c-048fe3e7115a",
       "name": "Harbour: Cala Loch Baghasdail",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -1698,7 +1698,7 @@
       }
     },
     {
-      "id": "a36a807e8b08",
+      "id": "6441a153-1d3f-54fd-93bd-eb20884c7823",
       "name": "Harbour: Campbeltown Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -1852,7 +1852,7 @@
       }
     },
     {
-      "id": "e4df1c752982",
+      "id": "884c7a27-9b7c-5b1c-8a9b-d84a95be4e19",
       "name": "Harbour: Carradale Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -2006,7 +2006,7 @@
       }
     },
     {
-      "id": "d34a77af3cfd",
+      "id": "681c4b03-7a2b-52b4-9894-0a461216c773",
       "name": "Harbour: Castlebay",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -2160,7 +2160,7 @@
       }
     },
     {
-      "id": "269c6f4eb167",
+      "id": "a40d6d94-41ad-5139-9d2b-55baa436f68b",
       "name": "Harbour: Castlebay Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -2314,7 +2314,7 @@
       }
     },
     {
-      "id": "16bd766cb6a1",
+      "id": "5e117297-eac3-57b0-a8fe-83c2dbe639f4",
       "name": "Harbour: Craighouse Moorings",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -2468,7 +2468,7 @@
       }
     },
     {
-      "id": "b748da41a3a4",
+      "id": "0c9b34f8-a824-567b-953e-be8157789153",
       "name": "Harbour: Craighouse Pier",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -2622,7 +2622,7 @@
       }
     },
     {
-      "id": "75f75dd052a9",
+      "id": "276af663-1653-5438-b9bd-ada68710005d",
       "name": "Harbour: Craobh Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -2776,7 +2776,7 @@
       }
     },
     {
-      "id": "8747e3e6684c",
+      "id": "21249cfd-9df9-5b84-b189-1c930a5d7807",
       "name": "Harbour: Crinan Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -2930,7 +2930,7 @@
       }
     },
     {
-      "id": "cfa55140ce86",
+      "id": "553227a9-4ffe-5dc3-88fa-cd316966ac89",
       "name": "Harbour: Crinan Canal Sea Lock Ardrishaig",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -3084,7 +3084,7 @@
       }
     },
     {
-      "id": "867e396f204f",
+      "id": "5c541827-9a11-58c2-9f8b-f7ec754b8d58",
       "name": "Harbour: Dunstaffnage Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -3238,7 +3238,7 @@
       }
     },
     {
-      "id": "6602e28ca619",
+      "id": "2da47b8d-67a7-5aed-bce9-a87c24415db0",
       "name": "Harbour: East India Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -3392,7 +3392,7 @@
       }
     },
     {
-      "id": "1dcf102ebf18",
+      "id": "ef3cced6-9765-55ab-8b07-39eec01e6719",
       "name": "Harbour: Fairlie Quay Boatyard",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -3546,7 +3546,7 @@
       }
     },
     {
-      "id": "df814d3e7d09",
+      "id": "d175a0c2-04a4-5d59-ab93-1a775b8936b8",
       "name": "Harbour: Gairloch Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -3700,7 +3700,7 @@
       }
     },
     {
-      "id": "9692810e74f2",
+      "id": "69dedd3d-fa7f-5ead-a3b3-b5d1ca8d16b1",
       "name": "Harbour: Gigha Ardminish Bay",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -3854,7 +3854,7 @@
       }
     },
     {
-      "id": "1656a804a97f",
+      "id": "3face3fd-2274-57aa-9114-e285b0c9b304",
       "name": "Harbour: Girvan Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -4008,7 +4008,7 @@
       }
     },
     {
-      "id": "75afc4ee3ead",
+      "id": "07c4bad7-b196-52eb-823f-d294300f9c3f",
       "name": "Harbour: Holy Loch Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -4162,7 +4162,7 @@
       }
     },
     {
-      "id": "d8af5be44e0e",
+      "id": "78b66096-b471-58fe-b1f4-e2a37e71076c",
       "name": "Harbour: Inchinnan Cruising Club",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -4316,7 +4316,7 @@
       }
     },
     {
-      "id": "06a84078dcdf",
+      "id": "f57ec9cb-306a-5353-931f-e85dd13d9e3f",
       "name": "Harbour: Isle of Skye Yachts",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -4470,7 +4470,7 @@
       }
     },
     {
-      "id": "85a7b98f6d5a",
+      "id": "c33064ad-0b16-50ae-998e-444da8e4eb26",
       "name": "Harbour: James Watt Dock Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -4624,7 +4624,7 @@
       }
     },
     {
-      "id": "36596db4daef",
+      "id": "18b3c0c8-2af2-5a1e-b172-0d66cf931ede",
       "name": "Harbour: Kallin Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -4778,7 +4778,7 @@
       }
     },
     {
-      "id": "ee7b54ccc2be",
+      "id": "c44ed333-dfe7-5d47-8d27-eec99206bf6c",
       "name": "Harbour: Kerrera Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -4932,7 +4932,7 @@
       }
     },
     {
-      "id": "e6a93a6260a2",
+      "id": "289be0aa-7acc-55da-97a5-3881daaa7208",
       "name": "Harbour: Kilcreggan Pier",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -5086,7 +5086,7 @@
       }
     },
     {
-      "id": "7da38cbf1355",
+      "id": "763bd642-97b9-5491-b907-df29ed3a6938",
       "name": "Harbour: Kilmelford Yacht Haven",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -5240,7 +5240,7 @@
       }
     },
     {
-      "id": "d451acd51d86",
+      "id": "eecbbb70-2fcb-5b84-a3ee-dd986c688450",
       "name": "Harbour: Kinlochbervie Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -5394,7 +5394,7 @@
       }
     },
     {
-      "id": "8cdc88679f72",
+      "id": "64198448-176d-535c-9ae2-c866b5321fdc",
       "name": "Harbour: Kip Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -5548,7 +5548,7 @@
       }
     },
     {
-      "id": "c74da401ca56",
+      "id": "1ff63319-c123-5c22-8afa-3f90afe17d14",
       "name": "Harbour: Kirkcudbright Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -5702,7 +5702,7 @@
       }
     },
     {
-      "id": "d305aacea1e6",
+      "id": "e1982661-bc42-592f-b02d-e3ac6eb5b737",
       "name": "Harbour: Kyle of Lochalsh Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -5856,7 +5856,7 @@
       }
     },
     {
-      "id": "c5b174476c21",
+      "id": "746f589f-597f-54b1-b776-faf7d447e9b4",
       "name": "Harbour: Kyleakin Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -6010,7 +6010,7 @@
       }
     },
     {
-      "id": "d883fb1e5a0a",
+      "id": "cde4d609-56ac-5cf1-8e60-241963da89dd",
       "name": "Harbour: Lamlash Pier",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -6164,7 +6164,7 @@
       }
     },
     {
-      "id": "37cdeb4f0c73",
+      "id": "e31de7ea-e937-59ff-9561-edd63e1304a1",
       "name": "Harbour: Largs Yacht Haven",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -6318,7 +6318,7 @@
       }
     },
     {
-      "id": "23fa6a525582",
+      "id": "974428bc-ce3d-54d2-bd51-b6b9369cc781",
       "name": "Harbour: Linnhe Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -6472,7 +6472,7 @@
       }
     },
     {
-      "id": "f5ec86de1899",
+      "id": "6df1de5b-d10b-5596-8502-c37bea7ff37d",
       "name": "Harbour: Lochaline Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -6626,7 +6626,7 @@
       }
     },
     {
-      "id": "af55baa8eddd",
+      "id": "d3400d0c-83cb-5943-9bad-4ff257524ecf",
       "name": "Harbour: Lochinver Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -6780,7 +6780,7 @@
       }
     },
     {
-      "id": "050f1142bad8",
+      "id": "eac9f53e-f148-5464-acda-605b70cb0db4",
       "name": "Harbour: Lochmaddy",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -6934,7 +6934,7 @@
       }
     },
     {
-      "id": "5e421a6ae847",
+      "id": "ad0eeec5-ba77-571c-9e97-824ec2870306",
       "name": "Harbour: Lochranza Pier",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -7088,7 +7088,7 @@
       }
     },
     {
-      "id": "2365c10746fa",
+      "id": "52d629d3-246c-5bc6-8fc2-019f3e3e31e3",
       "name": "Harbour: Mallaig Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -7242,7 +7242,7 @@
       }
     },
     {
-      "id": "2596d6b66d43",
+      "id": "821c4624-b7a2-5fc5-90b3-16f8bb3b6863",
       "name": "Harbour: Mallaig Yachting Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -7396,7 +7396,7 @@
       }
     },
     {
-      "id": "25ada1962adc",
+      "id": "26427283-70cd-5508-9a1b-77862f62dc91",
       "name": "Harbour: Marina Loch nam Madadh",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -7550,7 +7550,7 @@
       }
     },
     {
-      "id": "4727c8131837",
+      "id": "f6b0e8bf-490f-51b0-befd-0861db6f4e1f",
       "name": "Harbour: Millport Pier",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -7704,7 +7704,7 @@
       }
     },
     {
-      "id": "553231d190bc",
+      "id": "7541bb81-7a6b-5ce8-86eb-dff3c36655d9",
       "name": "Harbour: North Pier Pontoons Oban",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -7858,7 +7858,7 @@
       }
     },
     {
-      "id": "ff9bbeacd1ca",
+      "id": "84f68c8b-16a2-5595-a4d0-d88e676cf87a",
       "name": "Harbour: Plockton Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -8012,7 +8012,7 @@
       }
     },
     {
-      "id": "b911b4d2de93",
+      "id": "d43ee051-3be5-50c3-8a03-234dc76e260b",
       "name": "Harbour: Port Bannatyne Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -8166,7 +8166,7 @@
       }
     },
     {
-      "id": "78b3f59ce7a9",
+      "id": "fa007d9d-f1b9-56f1-8533-b092797f2ea1",
       "name": "Harbour: Port Ellen Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -8320,7 +8320,7 @@
       }
     },
     {
-      "id": "a90462d5b929",
+      "id": "80ccc229-4b66-5517-aca0-5c17fe33aed8",
       "name": "Harbour: Port Mor Muck",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -8474,7 +8474,7 @@
       }
     },
     {
-      "id": "0a457679cce9",
+      "id": "e566de5d-9f8c-54fe-a795-e011d4e81616",
       "name": "Harbour: Port na Cloiche",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -8628,7 +8628,7 @@
       }
     },
     {
-      "id": "01ee82b18214",
+      "id": "eaa5d94b-42fd-5915-8bc8-642d6b3f980e",
       "name": "Harbour: Port of Ness Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -8782,7 +8782,7 @@
       }
     },
     {
-      "id": "de35d584cb7e",
+      "id": "0891afa7-6320-5738-90db-751a96070247",
       "name": "Harbour: Portavadie",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -8936,7 +8936,7 @@
       }
     },
     {
-      "id": "2b9cc88674d2",
+      "id": "5fae1cfb-ea38-5b2f-bb3e-939ce6151881",
       "name": "Harbour: Portencross North Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -9090,7 +9090,7 @@
       }
     },
     {
-      "id": "4724a265c084",
+      "id": "89f2adce-e689-5f14-b38f-d1243d932a85",
       "name": "Harbour: Portpatrick Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -9244,7 +9244,7 @@
       }
     },
     {
-      "id": "15c7fe4a6376",
+      "id": "ce03cb34-18f2-5ce3-b0f4-2fa272c40c80",
       "name": "Harbour: Portree Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -9398,7 +9398,7 @@
       }
     },
     {
-      "id": "b45878fa1cf9",
+      "id": "0c60e993-749f-57fa-8969-6e624d696d16",
       "name": "Harbour: Raasay Churchton Bay Pontoon",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -9552,7 +9552,7 @@
       }
     },
     {
-      "id": "03572752e07c",
+      "id": "a5ca4d9f-b78c-5137-9925-6582e86522fb",
       "name": "Harbour: Rhu Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -9706,7 +9706,7 @@
       }
     },
     {
-      "id": "e58b5befc2c8",
+      "id": "6bbe3e79-d341-54f1-a06a-cdf7952ad421",
       "name": "Harbour: Rothesay Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -9860,7 +9860,7 @@
       }
     },
     {
-      "id": "7d136bbba5d7",
+      "id": "72a24453-5940-59b0-a37d-42e3ab96fd8f",
       "name": "Harbour: Salen Jetty Loch Sunart",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -10014,7 +10014,7 @@
       }
     },
     {
-      "id": "1c35569f3063",
+      "id": "8d3fa24a-2e95-5427-9db0-1e3de0c56823",
       "name": "Harbour: Scalasaig",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -10168,7 +10168,7 @@
       }
     },
     {
-      "id": "f4fb1edcf95d",
+      "id": "799ae7c8-98aa-5e0e-a66e-c86e8ce7a9e1",
       "name": "Harbour: Scavaig Landing",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -10322,7 +10322,7 @@
       }
     },
     {
-      "id": "3a017a616505",
+      "id": "b08c500c-92fc-5e29-bad1-f91536cd47a2",
       "name": "Harbour: Silvers Marine",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -10476,7 +10476,7 @@
       }
     },
     {
-      "id": "8ca22ff0d92a",
+      "id": "b69b60f4-3524-5765-bb23-91705d217cb0",
       "name": "Harbour: Stornoway Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -10630,7 +10630,7 @@
       }
     },
     {
-      "id": "4c28720c3040",
+      "id": "8dce822b-145d-5f87-a3d4-4bba95436109",
       "name": "Harbour: Stranraer Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -10784,7 +10784,7 @@
       }
     },
     {
-      "id": "9573ee4abdb4",
+      "id": "20db9770-ee0f-5585-9f10-34cffb909c44",
       "name": "Harbour: Tarbert Harbour Loch Fyne",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -10938,7 +10938,7 @@
       }
     },
     {
-      "id": "9eacdff709dc",
+      "id": "a6f1c621-9004-5a8b-966c-2b8781067424",
       "name": "Harbour: Thomas Telford Corpach Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -11092,7 +11092,7 @@
       }
     },
     {
-      "id": "921f6b9c2d54",
+      "id": "19f88226-41b1-5010-95ed-d88e67628136",
       "name": "Harbour: Tighnabruaich Pier",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -11246,7 +11246,7 @@
       }
     },
     {
-      "id": "ea6d91f69007",
+      "id": "924f3b3f-6c18-51cd-8cb2-cd2a9cdf89ab",
       "name": "Harbour: Tobermory",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -11400,7 +11400,7 @@
       }
     },
     {
-      "id": "c10b5d30475f",
+      "id": "770316e8-d4d6-5d60-b866-499ae605693e",
       "name": "Harbour: Troon Marina",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -11554,7 +11554,7 @@
       }
     },
     {
-      "id": "c500a047e609",
+      "id": "ae3a2ff3-f588-5afa-b01b-1715ab138707",
       "name": "Harbour: Ullapool Harbour",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from manual_seed.",
       "feature": {
@@ -11708,7 +11708,7 @@
       }
     },
     {
-      "id": "e62b639590a0",
+      "id": "32437dde-a6c4-56aa-80b6-ad5a697df8f2",
       "name": "Harbour: Victoria Harbour Greenock",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
@@ -11862,7 +11862,7 @@
       }
     },
     {
-      "id": "92c0d5db2bd6",
+      "id": "cc8a3b5b-f6a5-5789-83b8-54d0740299d7",
       "name": "Harbour: Visitor Moorings Lochboisdale",
       "description": "AIS Plus harbour trigger region. Seeded as a 300 m radius circle from openstreetmap.",
       "feature": {
