@@ -1,0 +1,79 @@
+name,latitude,longitude,type,source,notes
+Ardfern Yacht Centre,56.182663,-5.531603,marina,openstreetmap,
+Ardnadam Pier,55.982717,-4.939860,marina,openstreetmap,
+Ardrossan Harbour and Clyde Marina,55.639000,-4.821000,harbour_marina,manual_seed,Approximate point; verify before polygon creation
+Arisaig Harbour,56.912000,-5.839000,harbour,manual_seed,Approximate point; verify before polygon creation
+Armadale Pier,57.065000,-5.899000,harbour,manual_seed,Approximate point; verify before polygon creation
+Ayr Harbour,55.471252,-4.636568,harbour,openstreetmap,
+Berneray Harbour,57.713999,-7.169513,harbour,openstreetmap,
+Blackwaterfoot Harbour,55.501908,-5.333372,harbour,openstreetmap,
+Blairvadach Sailing and Outdoor Centre,56.027217,-4.793172,marina,openstreetmap,
+Brodick Harbour,55.578000,-5.147000,harbour,manual_seed,Approximate point; verify before polygon creation
+Cala Loch Baghasdail,57.149216,-7.297036,marina,openstreetmap,Lochboisdale area
+Campbeltown Harbour,55.424000,-5.603000,harbour,manual_seed,Approximate point; verify before polygon creation
+Carradale Harbour,55.592476,-5.463081,harbour,openstreetmap,
+Castlebay,56.954360,-7.489629,harbour,openstreetmap,
+Castlebay Marina,56.954106,-7.492713,marina,openstreetmap,
+Craighouse Moorings,55.834555,-5.948345,moorings,openstreetmap,
+Craighouse Pier,55.833000,-5.949000,harbour,manual_seed,Approximate point; verify before polygon creation
+Craobh Marina,56.211263,-5.556613,marina,openstreetmap,
+Crinan Harbour,56.091000,-5.558000,harbour,manual_seed,Approximate point; verify before polygon creation
+Crinan Canal Sea Lock Ardrishaig,56.015000,-5.449000,harbour,manual_seed,Approximate point; verify before polygon creation
+Dunstaffnage Marina,56.450036,-5.432306,marina,openstreetmap,
+East India Harbour,55.946478,-4.747692,harbour,openstreetmap,
+Fairlie Quay Boatyard,55.765600,-4.857455,marina,openstreetmap,
+Gairloch Harbour,57.711056,-5.682997,harbour_marina,openstreetmap,
+Gigha Ardminish Bay,55.681000,-5.737000,harbour,manual_seed,Approximate point; verify before polygon creation
+Girvan Harbour,55.243000,-4.857000,harbour,manual_seed,Approximate point; verify before polygon creation
+Holy Loch Marina,55.983638,-4.948631,marina,openstreetmap,
+Inchinnan Cruising Club,55.881466,-4.408841,marina,openstreetmap,
+Isle of Skye Yachts,57.066131,-5.894889,anchorage_marina,openstreetmap,Armadale area
+James Watt Dock Marina,55.943268,-4.726586,marina,openstreetmap,
+Kallin Harbour,57.482021,-7.204333,harbour,openstreetmap,
+Kerrera Marina,56.417827,-5.497663,marina,openstreetmap,
+Kilcreggan Pier,55.984121,-4.819595,marina,openstreetmap,
+Kilmelford Yacht Haven,56.270000,-5.553000,marina,manual_seed,Approximate point; verify before polygon creation
+Kinlochbervie Harbour,58.456000,-5.052000,harbour,manual_seed,Approximate point; verify before polygon creation
+Kip Marina,55.909899,-4.875439,marina,openstreetmap,
+Kirkcudbright Harbour,54.835000,-4.049000,harbour,manual_seed,Approximate point; verify before polygon creation
+Kyle of Lochalsh Harbour,57.280000,-5.713000,harbour,manual_seed,Approximate point; verify before polygon creation
+Kyleakin Harbour,57.273000,-5.739000,harbour,manual_seed,Approximate point; verify before polygon creation
+Lamlash Pier,55.533000,-5.130000,harbour,manual_seed,Approximate point; verify before polygon creation
+Largs Yacht Haven,55.773340,-4.858608,marina,openstreetmap,
+Linnhe Marina,56.583736,-5.376508,marina,openstreetmap,
+Lochaline Harbour,56.536000,-5.774000,harbour,manual_seed,Approximate point; verify before polygon creation
+Lochinver Harbour,58.148000,-5.243000,harbour,manual_seed,Approximate point; verify before polygon creation
+Lochmaddy,57.596564,-7.158988,marina,openstreetmap,
+Lochranza Pier,55.706000,-5.296000,harbour,manual_seed,Approximate point; verify before polygon creation
+Mallaig Harbour,57.006613,-5.825957,harbour,openstreetmap,
+Mallaig Yachting Marina,57.005028,-5.826310,marina,openstreetmap,
+Marina Loch nam Madadh,57.596441,-7.158707,marina,openstreetmap,
+Millport Pier,55.754000,-4.926000,harbour,manual_seed,Approximate point; verify before polygon creation
+North Pier Pontoons Oban,56.415747,-5.475682,marina,openstreetmap,
+Plockton Harbour,57.339000,-5.652000,harbour,manual_seed,Approximate point; verify before polygon creation
+Port Bannatyne Marina,55.861315,-5.086456,marina,openstreetmap,
+Port Ellen Harbour,55.627000,-6.189000,harbour,manual_seed,Approximate point; verify before polygon creation
+Port Mor Muck,56.835000,-6.236000,harbour,manual_seed,Approximate point; verify before polygon creation
+Port na Cloiche,55.634466,-6.125422,harbour,openstreetmap,
+Port of Ness Harbour,58.492572,-6.226341,harbour,openstreetmap,
+Portavadie,55.872793,-5.314042,marina,openstreetmap,
+Portencross North Harbour,55.700560,-4.904601,harbour,openstreetmap,
+Portpatrick Harbour,54.842433,-5.119297,harbour_marina,openstreetmap,
+Portree Harbour,57.411364,-6.190114,harbour_marina,openstreetmap,
+Raasay Churchton Bay Pontoon,57.352000,-6.078000,pontoon,manual_seed,Approximate point; verify before polygon creation
+Rhu Marina,56.012276,-4.774145,marina,openstreetmap,
+Rothesay Marina,55.838297,-5.053620,marina,openstreetmap,
+Salen Jetty Loch Sunart,56.706000,-5.783000,harbour,manual_seed,Approximate point; verify before polygon creation
+Scalasaig,56.068351,-6.187167,harbour,openstreetmap,
+Scavaig Landing,57.197000,-6.155000,landing,manual_seed,Approximate point; verify before polygon creation
+Silvers Marine,56.012785,-4.799960,harbour,openstreetmap,
+Stornoway Marina,58.209989,-6.390116,marina,openstreetmap,
+Stranraer Marina,54.904000,-5.027000,marina,manual_seed,Approximate point; verify before polygon creation
+Tarbert Harbour Loch Fyne,55.863000,-5.416000,harbour,manual_seed,Approximate point; verify before polygon creation
+Thomas Telford Corpach Marina,56.842322,-5.125094,marina,openstreetmap,
+Tighnabruaich Pier,55.910195,-5.223592,marina,openstreetmap,
+Tobermory,56.620172,-6.066467,harbour_marina,openstreetmap,
+Troon Marina,55.545487,-4.676238,marina,openstreetmap,
+Ullapool Harbour,57.895000,-5.160000,harbour,manual_seed,Approximate point; verify before polygon creation
+Victoria Harbour Greenock,55.945415,-4.745643,harbour,openstreetmap,
+Visitor Moorings Lochboisdale,57.767049,-7.026660,moorings,openstreetmap,Needs checking; OSM small craft facility
