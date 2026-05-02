@@ -1,5 +1,7 @@
 # SignalK Harbour Regions
 
+> **Alpha Release disclaimer:** This software is Alpha Release and has not been tested in live environments and must not be relied upon for navigation or safety. The Authors do not accept any responsibility for loss or damage as a result of using this software.
+
 Shared harbour data for AIS Plus automatic profile switching.
 
 ## Files
